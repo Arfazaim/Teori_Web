@@ -65,7 +65,7 @@ $order = "Rawon, Soto";
 sendOrder($name, $address, $order);
 $name = "Al";
 $address = "Boyolali";
-$order = "Ayam Bakar, Mie Goreng";
+$order = "Ayam Bakar, Mie Goreng, Soto";
 sendOrder($name, $address, $order);
 
 ?>
