@@ -9,4 +9,4 @@
     <h1>Nama:</h1> <?php echo $_GET ['nama']; ?>
     <h1>Alamat:</h1> <?php echo $_GET ['alamat']; ?>
 </body>
-</html>
+</html> 
